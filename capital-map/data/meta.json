@@ -1,0 +1,8 @@
+{
+ "zhvi_date": "2026-09-30",
+ "zori_date": "2026-09-30",
+ "acs": "ACS 2020-2024 5-year",
+ "cities": 12518,
+ "us_median_value": 305215.0,
+ "fields": "id,name,state,lat,lon,value,pop,zori,bottom_tier,year_built,v3,gr3,gr,tax,pre80,y5,zori_growth_since_2022_06,acs_median_value,v2,v4,renter_pct"
+}
